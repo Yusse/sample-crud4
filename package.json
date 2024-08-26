@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "ag-grid-community": "20.0.0",
-    "ag-grid-enterprise": "20.0.0",
+    "ag-grid-enterprise": "31.3.4",
     "json-loader": "0.5.7",
     "stylus": "0.54.5",
     "stylus-loader": "3.0.2",
